@@ -6,7 +6,7 @@
 <meta name="author" content="Randika De Aliws">
 <meta name="keywords" content="">
 
-<title>@yield('page_title') || sales.hitchfields.co.uk</title>
+<title>@yield('page_title')</title>
 <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" />
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
